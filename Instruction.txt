@@ -1,0 +1,74 @@
+NSTRUCTION.TXT
+WEBCHAT AUTOMATOR – USER MANUAL
+
+📌 About This Tool:
+
+WebChat Automator is a simple automation tool created by Akshat Rajput.
+This tool automatically opens WhatsApp on your device and sends messages to a selected contact using your logged-in account.
+
+⚠ This tool is made for educational and fun purposes only. Please do not misuse it, spam excessively, or disturb anyone. The creator is not responsible for any misuse of this tool.
+
+🖥 System Requirements:
+
+🔹 For Windows
+
+WhatsApp Desktop application must be installed on your system.
+
+You must be logged into your WhatsApp account before running the tool.
+
+Python must be installed with required libraries (rich, pyfiglet, pyautogui).
+
+🔹 For Linux
+
+Firefox browser must be installed on your system.
+
+You must be logged into WhatsApp Web before running the tool.
+
+Python must be installed with required libraries (rich, pyfiglet, pyautogui).
+
+🚀 How To Use (Windows)
+
+Run the tool using Python.
+
+Select OS option 1 (Windows) when prompted.
+
+Provide permission to proceed.
+
+Enter the target phone number in international format (e.g., +91xxxxxxxxxx).
+
+Enter the message you want to send.
+
+Enter how many times you want the message to be sent.
+
+Wait patiently and do not touch your keyboard or mouse while the tool is running.
+
+🚀 How To Use (Linux)
+
+Run the tool using Python.
+
+Select OS option 2 (Linux) when prompted.
+
+Ensure all requirements are completed.
+
+Enter the target phone number in international format.
+
+Enter the message you want to send.
+
+Enter how many times you want the message to be sent.
+
+Wait patiently and do not touch your keyboard or mouse while the tool is running.
+
+📌 Important Notice
+
+Use this tool responsibly.
+
+Do not use it to harass, spam, or disturb anyone.
+
+Excessive or abusive automated messaging may violate WhatsApp’s guidelines.
+
+If you misuse this tool or disturb others, your WhatsApp account may be temporarily or permanently banned according to WhatsApp policies.
+
+This project is intended only for learning and educational demonstration purposes.
+
+Made by Akshat Rajput
+Version 1.0
